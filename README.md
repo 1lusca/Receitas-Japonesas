@@ -1,6 +1,13 @@
 
 ![Signos do Zodiaco](https://1lusca.github.io/assets/img/portfolio/receitsajaponesas.png)
 
+##
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/github/license/1lusca/receitas-japonesas.svg">
+  <img src="https://img.shields.io/github/followers/1lusca.svg?style=social&label=Follow&maxAge=2592000">
+</p>
 
 ## 🇯🇵 Receitas Japonesas 🇯🇵
 
@@ -15,20 +22,14 @@ O aplicativo de Receitas Japonesas é uma ferramenta completa para os amantes da
 
 ##
 
-### Plataforma 📱
-<div style="display: inline_block">
-  <img align="center" alt="1lusca-android" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-</div>
+### Tecnologias e Ferramentas 💻
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,github" />
+</p>
 
 ##
 
-### Tecnologias e Ferramentas 💻
-
-<div style="display: inline_block">
-  <img align="center" alt="1lusca-flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="1lusca-dart" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="1lusca-firebase" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="1lusca-figma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="1lusca-git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="1lusca-github" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
- </div>
+<p align="center">
+  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+</p>
